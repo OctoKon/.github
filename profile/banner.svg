@@ -1,0 +1,75 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1280"
+  height="304"
+  viewBox="0 0 1280 304"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">OctoKon</title>
+  <desc id="description">
+    Building practical software together. A charcoal banner with a geometric
+    eight-point motif.
+  </desc>
+  <rect
+    x="1"
+    y="1"
+    width="1278"
+    height="302"
+    rx="18"
+    fill="#111318"
+    stroke="#30353f"
+    stroke-width="2"
+  />
+  <path
+    d="M64 57h48"
+    stroke="#8ddcc4"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+  <text
+    x="60"
+    y="163"
+    fill="#f4f5f7"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="108"
+    font-weight="650"
+    letter-spacing="-5"
+  >
+    OctoKon
+  </text>
+  <text
+    x="64"
+    y="219"
+    fill="#aeb6c2"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="29"
+  >
+    Building practical software together.
+  </text>
+  <g fill="none" stroke="#3c4450" stroke-width="1.5">
+    <path d="m1027 48 86 0 61 61v86l-61 61h-86l-61-61v-86z" />
+    <path d="m1044 89 52 0 37 37v52l-37 37h-52l-37-37v-52z" />
+    <path
+      d="m1027 48 17 41m69-41-17 41m78 20-41 17m41 69-41-17m-20 78-17-41m-69 41 17-41m-78-20 41-17m-41-69 41 17"
+    />
+  </g>
+  <g fill="#111318" stroke="#7e8a9b" stroke-width="1.5">
+    <rect x="1022" y="43" width="10" height="10" rx="2" />
+    <rect x="1108" y="43" width="10" height="10" rx="2" />
+    <rect x="1169" y="104" width="10" height="10" rx="2" />
+    <rect x="1169" y="190" width="10" height="10" rx="2" />
+    <rect x="1108" y="251" width="10" height="10" rx="2" />
+    <rect x="1022" y="251" width="10" height="10" rx="2" />
+    <rect x="961" y="190" width="10" height="10" rx="2" />
+    <rect x="961" y="104" width="10" height="10" rx="2" />
+  </g>
+  <path
+    d="m1044 89 52 0 37 37"
+    fill="none"
+    stroke="#8ddcc4"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+  <circle cx="1070" cy="152" r="5" fill="#8ddcc4" />
+</svg>
