@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/orgs/OctoKon/repositories">Projects</a>
   &nbsp; / &nbsp;
-  <a href="https://github.com/OctoKon/Octo-Harness/issues">Get involved</a>
+  <a href="https://github.com/OctoKon/Splyce/issues">Get involved</a>
   &nbsp; / &nbsp;
   <a href="mailto:octokon.org@gmail.com">Contact</a>
 </p>
@@ -16,11 +16,15 @@ OctoKon is a software organization exploring developer tools and AI-assisted dev
 
 ## Current work
 
-### [Octo-Harness ↗](https://github.com/OctoKon/Octo-Harness)
+### [Splyce ↗](https://github.com/OctoKon/Splyce)
 
-Research and development of a unified coding-agent CLI and harness.
+A Windows desktop coding agent, designed around a native GUI and a Splyce-owned, deeply integrated Pi-derived engine.
 
-The project is in its early research and planning stage. Follow the repository for its direction, documentation, and progress.
+The stack pairs a **Tauri 2 / Rust shell** with **Svelte 5 and TypeScript**, and a **Pi-derived TypeScript core running on packaged Node.js**. The direction is a barebones base with optional modules and explicit local or cloud model profiles.
+
+**In active development:** public research and architecture are available, and implementation is underway. Windows desktop V1 has not shipped.
+
+[Explore Splyce](https://github.com/OctoKon/Splyce) · [Research](https://github.com/OctoKon/Splyce/blob/main/research/README.md) · [Master plan](https://github.com/OctoKon/Splyce/blob/main/MASTER-PLAN.md) · [Contributing](https://github.com/OctoKon/Splyce/blob/main/CONTRIBUTING.md)
 
 ## Our approach
 
